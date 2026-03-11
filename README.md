@@ -29,13 +29,13 @@ churn_events.csv – churn events and reasons
 ## Dashboard
 
 ### Executive Overview
-![Overview](images/I1.png)
+![Overview](I1.png)
 
 ### Product Insights
-![Product](images/I2.png)
+![Product](I2.png)
 
 ### Churn Analysis
-![Churn](images/I3.png)
+![Churn](I3.png)
 
 ## Insights
 
