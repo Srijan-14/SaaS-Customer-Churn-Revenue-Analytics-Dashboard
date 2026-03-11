@@ -26,6 +26,16 @@ churn_events.csv – churn events and reasons
 - Feature Adoption
 - Support Ticket Distribution
 
+## Dashboard
+
+### Executive Overview
+![Overview](images/I1.png)
+
+### Product Insights
+![Product](images/I2.png)
+
+### Churn Analysis
+![Churn](images/I3.png)
 
 ## Insights
 
